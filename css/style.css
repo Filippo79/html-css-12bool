@@ -1,0 +1,30 @@
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.verde {
+    background-color: darkgreen;
+    height: 150px;
+    border: 2px solid black;
+}
+
+
+.arancione {
+    background-color: darkorange;
+    height: 150px;
+    border: 2px solid black;
+}
+
+.rosso {
+    background-color: darkred;
+    height: 150px;
+    border: 2px solid black;
+}
+
+.blu {
+    background-color: darkblue;
+    height: 150px;
+    border: 2px solid black;
+}
